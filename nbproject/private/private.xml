@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/balonchiki.dev/protected/models/CartSession.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/models/xml/WOptions.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/widgets/MainMenuWidget.php</file>
+            <file>file:/var/www/balonchiki.dev/products.xml</file>
+            <file>file:/var/www/balonchiki.dev/protected/components/WXml.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/components/WXmlModel.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/widgets/ListCategoryWidget.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/widgets/views/ListCategoryView.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/widgets/QuickMenuWidget.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/models/xml/WCategory.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/controllers/SiteController.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/widgets/views/MainMenuView.php</file>
+            <file>file:/var/www/balonchiki.dev/protected/views/site/footer.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <options>
+                <site>
+                        <name>ГАЗОВЫЕ БАЛЛОНЧИКИ 2.0</name>
+                        <description>Газовые баллончики для самообороны - отличное средство самозащиты от любого вида агрессии, способное нейтрализовать обидчика (агрессивного, пьяного, имеющего преступные планы на ваше имущество лица). Эффективность баллончика, как средства самообороны, достигается низкой стоимостью (средняя цена газового баллончика составляет от 5 до 10 долларов) Баллончики широко используются в качестве спецсредств органов внутренних дел (милицией), охранных структур. Причина проста - вы можете самостоятельно предупредить противоправные действия при отсутствии вреда нападающему (как такового вреда здоровью не наносится, но при этом нападающий нейтрализуется на время, которого будет достаточно для того, чтобы избежать нападения). В результате воздействия струи распыленного газа нападающий будет нейтрализован за счет сильного жжения глаз, органов носоглотки, влоть до потери координации и сознания. Также имеются данные о возможности применения газового баллончика при самозищите от нападения животного (такого как собака).</description>
+                </site>
+                <params>
+                        <tel>
+                                <t1>(095) 386-28-00</t1>
+                                <t2>(499) 501-15-04</t2>
+                                <t3>(499) 501-15-14</t3>
+                        </tel>
+                        <email>
+                                <e1>denquick@gmail.com</e1>
+                                <e2>test@gmail.com</e2>
+                        </email>
+                </params>
+                <design>
+                        <category>
+                                <title>
+                                        <position>center</position>
+                                </title>
+                        </category>
+                        <mainMenu>
+                                <background>
+                                        <color>blue</color>
+                                </background>
+                        </mainMenu>
+                </design>
+        </options>
+        <categories>
+                <category_1>
+                        <name>Терен</name>
+                        <description>Описание</description>
+                        <short_description>Короткое описание</short_description>
+                        <alias>teren</alias>
+                        <products>
+                                <item_1>
+                                        <name>1 a</name>
+                                        <alias>1a</alias>
+                                        <price>100</price>
+                                        <amount>10</amount>
+                                        <type>default</type>
+                                        <logo>cobra_1s.jpg</logo>
+                                        <description>Описание21</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_1>
+                                <item_2>
+                                        <name>2 a</name>
+                                        <alias>2a</alias>
+                                        <price>123</price>
+                                        <amount>10</amount>
+                                        <type>default</type>
+                                        <logo>Kobra1NS_enl.jpg</logo>
+                                        <description>Описани32е</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_2>
+                                <item_3>
+                                        <name>3 a</name>
+                                        <alias>3a</alias>
+                                        <price>132</price>
+                                        <amount>1</amount>
+                                        <type>vip</type>
+                                        <logo>cobra_1s.jpg</logo>
+                                        <description>Описаниеewd</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_3>
+                        </products>
+                </category_1>
+                <category_2>
+                        <name>Кобра</name>
+                        <description>Описание</description>
+                        <short_description>Короткое описание</short_description>
+                        <alias>kobra</alias>
+                        <products>
+                                <item_1>
+                                        <name>1 b</name>
+                                        <alias>1b</alias>
+                                        <price>151</price>
+                                        <amount>10</amount>
+                                        <type>default</type>
+                                        <logo>gazoviy-balonchik-kobra-h1.jpg</logo>
+                                        <description>Описаниеef</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_1>
+                                <item_2>
+                                        <name>2 b</name>
+                                        <alias>2b</alias>
+                                        <price>103</price>
+                                        <amount>10</amount>
+                                        <type>default</type>
+                                        <logo>3412352436256.jpg</logo>
+                                        <description>Описаниеdfffd</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_2>
+                                <item_3>
+                                        <name>3 b</name>
+                                        <alias>3b</alias>
+                                        <price>32</price>
+                                        <amount>1</amount>
+                                        <type>vip</type>
+                                        <logo>cobra_1s.jpg</logo>
+                                        <description>Описаниеdfdf</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_3>
+                        </products>
+                </category_2>
+                <category_3>
+                        <name>Кобра-1</name>
+                        <description>Описаниvfdvsdfе</description>
+                        <short_description>Короткое описаниеfdvfdfd</short_description>
+                        <alias>kobra-3s</alias>
+                        <products>
+                                <item_1>
+                                        <name>1 c</name>
+                                        <alias>1c</alias>
+                                        <price>1521</price>
+                                        <amount>10</amount>
+                                        <type>default</type>
+                                        <logo>cobra_1s.jpg</logo>
+                                        <description>Описаниеef</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_1>
+                                <item_2>
+                                        <name>2 c</name>
+                                        <alias>2c</alias>
+                                        <price>1023</price>
+                                        <amount>110</amount>
+                                        <type>default</type>
+                                        <logo>3412352436256.jpg</logo>
+                                        <description>Описаниеdfffd</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_2>
+                                <item_3>
+                                        <name>3 c</name>
+                                        <alias>3c</alias>
+                                        <price>323</price>
+                                        <amount>1</amount>
+                                        <type>vip</type>
+                                        <logo>gazoviy-balonchik-kobra-h1.jpg</logo>
+                                        <description>Описаниеdfdf</description>
+                                        <galery>
+                                                <image>kjbckcsd.jpeg</image>
+                                                <image>kjbckcwf.jpeg</image>
+                                                <image>kjbfvdff.jpeg</image>
+                                                <image>kjbckcrf.jpeg</image>
+                                                <image>kcfderfe.jpeg</image>
+                                        </galery>
+                                </item_3>
+                        </products>
+                </category_3>
+        </categories>
+</root>
